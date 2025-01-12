@@ -1,3 +1,5 @@
 adding some text here
 
 hello world
+
+testing some git message stuff
